@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - BackGround
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - ForeGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 1
+    uniqueID: 4024123143
+    locked: 0
+  - name: Background2
+    uniqueID: 2642566609
+    locked: 0
+  - name: SkyA
+    uniqueID: 3555316539
+    locked: 0
+  - name: SkyB
+    uniqueID: 2834731011
+    locked: 0
+  - name: SkyC
+    uniqueID: 1569666905
+    locked: 0
+  - name: Background3
+    uniqueID: 3005244063
+    locked: 0
+  - name: Background4
+    uniqueID: 763812589
+    locked: 0
+  - name: Background5
+    uniqueID: 476105227
+    locked: 0
+  - name: Background6
+    uniqueID: 4130887855
+    locked: 0
+  - name: Background7
+    uniqueID: 1053513199
+    locked: 0
+  - name: Background8
+    uniqueID: 1261965273
+    locked: 0
+  - name: Background9
+    uniqueID: 1578481933
+    locked: 0
+  - name: Background10
+    uniqueID: 694371599
+    locked: 0
+  - name: Background11
+    uniqueID: 1464841557
+    locked: 0
+  - name: Background12
+    uniqueID: 44298435
+    locked: 0
+  - name: 13S
+    uniqueID: 3592942287
+    locked: 0
+  - name: Background13A
+    uniqueID: 3643284719
+    locked: 0
+  - name: Background13
+    uniqueID: 2183285051
+    locked: 0
+  - name: Background14
+    uniqueID: 1833088065
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround1
+    uniqueID: 2453775271
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2183199023
+    locked: 0
